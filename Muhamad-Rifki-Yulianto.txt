@@ -1,1 +1,4 @@
-echo"G.231.18.0206 - MuhamadRifkiYulianto" > README
+Commit 1
+
+Nim : G.231.18.0206
+Nama : Muhamad Rifki Yulianto
