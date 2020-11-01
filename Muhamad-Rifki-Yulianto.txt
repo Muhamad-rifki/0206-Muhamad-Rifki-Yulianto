@@ -1,4 +1,1 @@
-Commit 1
-
-Nim : G.231.18.0206
-Nama : Muhamad Rifki Yulianto
+G.231.18.0206 - Muhamad Rifki Yulianto - Kota Semarang
